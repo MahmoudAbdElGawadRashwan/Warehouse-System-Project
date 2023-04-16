@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="5474b5ba1c9f4cb7979a09a2ea2ea55d" Name="Diagram1">
+        <EntityTypeShape EntityType="Warehouse_SystemModel.Client" Width="1.5" PointX="0.75" PointY="16.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="Warehouse_SystemModel.Client_Quantity" Width="1.5" PointX="3" PointY="8.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="Warehouse_SystemModel.Customer_Permission" Width="1.5" PointX="6" PointY="8.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="Warehouse_SystemModel.Product" Width="1.5" PointX="0.75" PointY="2.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="Warehouse_SystemModel.Product_Measure" Width="1.5" PointX="3" PointY="1.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="Warehouse_SystemModel.Product_Transfer" Width="1.5" PointX="3" PointY="4.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="Warehouse_SystemModel.Product_Warehouse" Width="1.5" PointX="3" PointY="12.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="Warehouse_SystemModel.Supplier" Width="1.5" PointX="0.75" PointY="12.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="Warehouse_SystemModel.Supply_Permission" Width="1.5" PointX="6" PointY="4.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="Warehouse_SystemModel.Supply_Quantity" Width="1.5" PointX="8.25" PointY="6.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="Warehouse_SystemModel.sysdiagram" Width="1.5" PointX="5.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="Warehouse_SystemModel.Warehouse" Width="1.5" PointX="0.75" PointY="8.375" IsExpanded="true" />
+        <AssociationConnector Association="Warehouse_SystemModel.c8" ManuallyRouted="false" />
+        <AssociationConnector Association="Warehouse_SystemModel.FK_client_id" ManuallyRouted="false" />
+        <AssociationConnector Association="Warehouse_SystemModel.c6" ManuallyRouted="false" />
+        <AssociationConnector Association="Warehouse_SystemModel.c7" ManuallyRouted="false" />
+        <AssociationConnector Association="Warehouse_SystemModel.c9" ManuallyRouted="false" />
+        <AssociationConnector Association="Warehouse_SystemModel.FK_prod_code" ManuallyRouted="false" />
+        <AssociationConnector Association="Warehouse_SystemModel.FK_warehouse" ManuallyRouted="false" />
+        <AssociationConnector Association="Warehouse_SystemModel.c2" ManuallyRouted="false" />
+        <AssociationConnector Association="Warehouse_SystemModel.FK_p_code" ManuallyRouted="false" />
+        <AssociationConnector Association="Warehouse_SystemModel.FK_PC" ManuallyRouted="false" />
+        <AssociationConnector Association="Warehouse_SystemModel.FK_pp" ManuallyRouted="false" />
+        <AssociationConnector Association="Warehouse_SystemModel.FK_product_code" ManuallyRouted="false" />
+        <AssociationConnector Association="Warehouse_SystemModel.FK_FWH" ManuallyRouted="false" />
+        <AssociationConnector Association="Warehouse_SystemModel.FK_SUP" ManuallyRouted="false" />
+        <AssociationConnector Association="Warehouse_SystemModel.FK_TWH" ManuallyRouted="false" />
+        <AssociationConnector Association="Warehouse_SystemModel.FK_pWH" ManuallyRouted="false" />
+        <AssociationConnector Association="Warehouse_SystemModel.c3" ManuallyRouted="false" />
+        <AssociationConnector Association="Warehouse_SystemModel.FK_s_id" ManuallyRouted="false" />
+        <AssociationConnector Association="Warehouse_SystemModel.c4" ManuallyRouted="false" />
+        <AssociationConnector Association="Warehouse_SystemModel.FK_WH" ManuallyRouted="false" />
+        <AssociationConnector Association="Warehouse_SystemModel.c1" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

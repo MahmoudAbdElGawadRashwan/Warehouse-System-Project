@@ -1,0 +1,16 @@
+D:\Warehouse Project\Warehouse\Warehouse\bin\Debug\Warehouse.exe.config
+D:\Warehouse Project\Warehouse\Warehouse\bin\Debug\Warehouse.exe
+D:\Warehouse Project\Warehouse\Warehouse\bin\Debug\Warehouse.pdb
+D:\Warehouse Project\Warehouse\Warehouse\bin\Debug\EntityFramework.dll
+D:\Warehouse Project\Warehouse\Warehouse\bin\Debug\EntityFramework.SqlServer.dll
+D:\Warehouse Project\Warehouse\Warehouse\bin\Debug\EntityFramework.xml
+D:\Warehouse Project\Warehouse\Warehouse\bin\Debug\EntityFramework.SqlServer.xml
+D:\Warehouse Project\Warehouse\Warehouse\obj\Debug\Warehouse.csproj.AssemblyReference.cache
+D:\Warehouse Project\Warehouse\Warehouse\obj\Debug\Warehouse.csproj.SuggestedBindingRedirects.cache
+D:\Warehouse Project\Warehouse\Warehouse\obj\Debug\Warehouse.Form1.resources
+D:\Warehouse Project\Warehouse\Warehouse\obj\Debug\Warehouse.Properties.Resources.resources
+D:\Warehouse Project\Warehouse\Warehouse\obj\Debug\Warehouse.csproj.GenerateResource.cache
+D:\Warehouse Project\Warehouse\Warehouse\obj\Debug\Warehouse.csproj.CoreCompileInputs.cache
+D:\Warehouse Project\Warehouse\Warehouse\obj\Debug\Warehouse.csproj.CopyComplete
+D:\Warehouse Project\Warehouse\Warehouse\obj\Debug\Warehouse.exe
+D:\Warehouse Project\Warehouse\Warehouse\obj\Debug\Warehouse.pdb
